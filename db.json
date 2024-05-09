@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Title 1",
+      "body": "this is the sample body 1",
+      "author": "John Lennon",
+      "created_at": "05/01/2024",
+      "is_saved": "true"
+    },
+    {
+      "id": "2",
+      "title": "Title 2",
+      "body": "this is the sample body 2",
+      "author": "Paul McArtney",
+      "created_at": "05/02/2024",
+      "is_saved": "true"
+    },
+    {
+      "id": "3",
+      "title": "Title 3",
+      "body": "this is the sample body 3",
+      "author": "Ringo Starr",
+      "created_at": "05/03/2024",
+      "is_saved": "true"
+    },
+    {
+      "id": "4",
+      "title": "Title 4",
+      "body": "this is the sample body 4",
+      "author": "George Harrison",
+      "created_at": "05/04/2024",
+      "is_saved": true
+    }
+  ]
+}
