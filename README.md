@@ -1,8 +1,12 @@
 This is a tutorial Project with Vue Composition Api
+
 Features : 
+
 -this uses pinia for state management 
 -uses db.json as a database so you need to install json server 
+
 steps : 
+
 1. npm install json-server
 2. run: npx json-server db.json -w
 
